@@ -228,12 +228,21 @@
 		font-size: $menu-large;
 	}
 	
-	&.active-link {
+	&.active-link:after {
+		background: none repeat scroll 0 0 $overlay-background-color;
+		position: relative;
+		bottom: 0px;
+		margin-left: auto;
+		margin-right: 0;
+		content: "";
+		display: block;
+		height: 4px;
+		width: 12px;
+
 		color: $overlay-accent-color;
 
 		@include mq(tabletl) {
 			color: $text-dark-color;
-			border-color: $accent-color;
 		}
 	}
 }
