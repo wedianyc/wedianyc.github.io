@@ -15,6 +15,7 @@
 // @codekit-prepend "/plugins/fluidbox.js"
 // @codekit-prepend "/plugins/owl.js"
 // @codekit-prepend "/plugins/waypoints.js"
+// @codekit-prepend "/plugins/test.js"
 
 
 
