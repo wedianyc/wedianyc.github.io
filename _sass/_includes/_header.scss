@@ -9,19 +9,19 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	margin-top: 40px;
+	margin-top: 20px;
 
-	@include mq(tabletp) {
-		margin-top: 50px;
-	}
+	// @include mq(tabletp) {
+	// 	margin-top: 50px;
+	// }
 
-	@include mq(tabletl) {
-		margin-top: 60px;
-	}
+	// @include mq(tabletl) {
+	// 	margin-top: 60px;
+	// }
 
-	@include mq(laptop) {
-		margin-top: 80px;
-	}
+	// @include mq(laptop) {
+	// 	margin-top: 80px;
+	// }
 }
 
 .header__logo {
