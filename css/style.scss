@@ -158,3 +158,13 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_blog";
 
 
+// - - - - - - - - - - - - - - Custom CSS
+.logo-primary {
+	width: 140px;
+	text-align: center;
+	margin-left: 0;
+	margin-right: auto;
+	display: inline;
+}
+
+
