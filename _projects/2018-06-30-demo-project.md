@@ -49,10 +49,10 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img class="wow fadeInUp" src="/images/demo/demo-portrait.jpg">
+	<img class="wow fadeInUp" src="/images/demo/demo-landscape.jpg">
+	<img class="wow fadeInUp" src="/images/demo/demo-square.jpg">
+	<img class="wow fadeInUp" src="/images/demo/demo-landscape-2.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
