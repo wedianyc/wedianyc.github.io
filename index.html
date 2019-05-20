@@ -5,25 +5,18 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 ---
 
 <section class="intro">
-
 	<div class="wrap">
-
-		<h1 class="animated fadeInUp">WeDIA is a full-service agency, busy designing and building remarkable digital products, brands, experiences, and campaigns.</h1>
-
+		<h1 class="animated fadeIn">WeDIA is a full-service agency, busy designing and building remarkable digital products, brands, experiences, and campaigns.</h1>
 	</div>
-
 </section>
 
 <section class="portfolio">
-
 	<div class="content-wrap portfolio-wrap scroll-animations">
 
 		{% for project in site.projects reversed %}
 
-		<div class="portfolio-item animated">
-
+		<div class="portfolio-item wow fadeInUp" data-wow-duration="2s">
 			<a class="portfolio-item__link" href="{{ project.url }}">
-
 				<div class="portfolio-item__image">
 					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
 				</div>
@@ -34,13 +27,10 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
 					</div>
 				</div>
-
 			</a>
-
 		</div>
 
 		{% endfor %}
 
 	</div>
-
 </section>

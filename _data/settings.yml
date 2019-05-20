@@ -10,10 +10,12 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
+    - title: 'We do'
+      url: '/services'
+    - title: 'Case studies'
+      url: '/work'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
-      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
@@ -86,9 +88,9 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
   menu:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
+    small_size: 14
+    medium_size: 16
+    large_size: 18
     weight: 600
     letter_spacing: 0
   grid_item_title:
