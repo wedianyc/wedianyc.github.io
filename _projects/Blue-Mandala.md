@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Blue Mandala'
+subtitle: 'Development, Design, Branding'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/02-BLUEMANDALA.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/02-BLUEMANDALA.png)
 
 ## Demo content
 
