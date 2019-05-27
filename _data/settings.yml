@@ -8,8 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
     - title: 'We do'
       url: '/services'
     - title: 'Case studies'
@@ -88,7 +86,7 @@ font_settings:
     weight: 700
     letter_spacing: -0.02
   menu:
-    small_size: 14
+    small_size: 24
     medium_size: 16
     large_size: 18
     weight: 600

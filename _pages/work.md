@@ -1,13 +1,13 @@
 ---
-title: Case Studies
-subtitle: WeDIA is a full-service agency, busy designing and building remarkable digital products, brands, experiences, and campaigns.
-
+title: Case studies
+subtitle: A behind-the-scenes look of what We do.
 ---
 
-# Case studies
-* [3ee](/3ee)
-* [Andaz](/andaz)
-* [Dope](/dope)
-* [SEO](/seo)
-* [vestd](/vestd)
-* [Volcom](/volcom)
+<ul class="case-studies-list">
+	<li><a href="/3ee">3ee (Web Development)</a></li>
+	<li><a href="/andaz">Andaz (Social Media Marketing)</a></li>
+	<li><a href="/dope">DOPE (Branding & Design)</a></li>
+	<li><a href="/seo">SEO/SEM</a></li>
+	<li><a href="/vestd">vestd (Mobile App Development)</a></li>
+	<li><a href="/volcom">Volcom (Creative)</a></li>
+</ul>
