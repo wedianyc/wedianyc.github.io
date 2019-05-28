@@ -18,13 +18,19 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 		<div class="portfolio-item wow fadeInUp" data-wow-duration="2s">
 			<a class="portfolio-item__link" href="{{ project.url }}">
 				<div class="portfolio-item__image">
-					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+					{% if project.featured_image != ''%}
+						<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+					{% else if project.featured_video %}
+						<video>
+							<source src="{{ project.featured_video }}" type="video/mp4">
+						</video>
+					{% endif %}
 				</div>
+				
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ project.hover_title }}</h2>
 					</div>
 				</div>
 			</a>
