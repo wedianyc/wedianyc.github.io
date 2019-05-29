@@ -13,7 +13,8 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 <section class="portfolio">
 	<div class="content-wrap portfolio-wrap scroll-animations">
 
-		{% for project in site.projects reversed %}
+		{% assign projects = site.projects | sort: "rank" %}
+		{% for project in projects %}
 
 		<div class="portfolio-item wow fadeInUp" data-wow-duration="2s">
 			<a class="portfolio-item__link" href="{{ project.url }}">

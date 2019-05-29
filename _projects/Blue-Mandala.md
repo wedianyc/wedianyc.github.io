@@ -2,6 +2,7 @@
 title: 'Blue Mandala'
 subtitle: 'Development, Design, Branding'
 hover_title: 'Web Design'
+rank: 7
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/02-BLUEMANDALA.png'

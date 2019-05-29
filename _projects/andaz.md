@@ -1,6 +1,7 @@
 ---
 title: Andaz
 subtitle: Bringing Community to a Hotel.
+rank: 6
 hover_title: Social Media Marketing
 featured_image: '/images/wall-street.jpg'
 

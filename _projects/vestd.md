@@ -1,6 +1,7 @@
 ---
 title: vestd
 subtitle: An accounting tool for freelancers.
+rank: 1
 hover_title: 'Mobile App Development'
 featured_image: '/images/mobile/vestd-small.png'
 ---

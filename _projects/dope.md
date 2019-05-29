@@ -1,6 +1,7 @@
 ---
 title: DOPE
 subtitle: An unconventional approach to drug awareness.
+rank: 4
 hover_title: Design
 featured_image: '/images/DOPE-1.jpg'
 

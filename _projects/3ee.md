@@ -1,6 +1,7 @@
 ---
 title: 3ee
 subtitle: Effortless Dining Through an Advanced Information Architecture.
+rank: 2
 hover_title: Web Development
 featured_image: '/images/3ee.jpg'
 
