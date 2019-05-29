@@ -1,9 +1,9 @@
 ---
 title: 3ee
-subtitle: Effortless Dining Through an Advanced Information Architecture.
+subtitle: Disrupting the bustling industry of fine dining.
 rank: 2
 hover_title: Web Development
-featured_image: '/images/3ee.jpg'
+featured_image: '/images/3ee/3ee-laptop.jpg'
 
 ---
 
@@ -12,7 +12,7 @@ featured_image: '/images/3ee.jpg'
 </video>
 
 
-For any foodie with an expensive taste, 3ee is the service you need.3ee’s goal
+For any foodie with an expensive taste, 3ee is the service you need. 3ee’s goal
 was to develop a dining experience that allowed their members to make
 reservations at the most elite restaurants in NYC. Members would be limited to
 a certain amount of reservations per month based on their subscription level.
