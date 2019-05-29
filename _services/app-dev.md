@@ -14,9 +14,10 @@ of time.
 If you’re struggling to determine which platform to launch your app on, check
 out our blog post [Native vs. Web vs Hybrid Apps](/blog/native-web-hybrid).
 
-The PDS unfolds as follows:
 
-### DAY 1:
+### PDS Overview
+
+#### Day 1-2
 
 Step 1: Defining the problem. We put everything we know on the table (i.e your
 expertise). We gather all existing information on your business, the end user,
@@ -36,7 +37,9 @@ could have, regardless of how crazy. We then put the features into a category of
 needs, wants, and desires. This will help us determine what features have to be
 in our MVP (Minimum Viable Product) vs which features can be added over time. 
 
-### DAY 2: (Now that you've been able to sleep/digest everything)
+#### Day 3-4
+
+*Now that you've been able to sleep/digest everything...*
 
 Step 4: Decision time. Settle on the right path. We take all of the
 possibilities discussed over the past three phases and hone in on a single
@@ -75,8 +78,8 @@ go out and raise funds for future development of the app (based off of the
 Now that we have collected feedback from a select group of users, providing
 validity to your apps concept and users interest in it, WeDIA will begin to
 implement suggestions/modifications uncovered during user testing, as well as
-beginning to build out the features in the “wants/desires” categories from Phase
-2. 
+beginning to build out the features in the “wants/desires” categories from phase
+two. 
 
 Feature roll-outs are intended to be broken into phases to allow for user
 feedback. We do not encourage anyone to simply build and entire app without
