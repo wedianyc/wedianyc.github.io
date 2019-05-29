@@ -1,6 +1,6 @@
 ---
 title: Not Blue Designs
-subtitle: Fixing a Sudden Decrease in Ad Performance.
+subtitle: Fixing a sudden decrease in ad performance.
 hover_title: SEO/SEM
 featured_image: '/images/SEO/SEO-1.png'
 
