@@ -16,7 +16,7 @@ your site rank higher within Search. We will also make suggestions on how to
 optimize your Google Ads strategy. 
 
 To learn more about the difference between SEO and SEM, check out our blog post
-“SEO vs SEM for Newbies”.
+[SEO vs SEM for Newbies](/blog/soe-sem).
 
 The final deliverable is a 15+ page PDF that includes an executive summary,
 competitive landscape analysis, reporting/benchmark recommendations, page by
