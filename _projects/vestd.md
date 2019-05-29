@@ -2,10 +2,10 @@
 title: vestd
 subtitle: An Accounting Tool for Freelancers.
 hover_title: 'Mobile App Development'
-featured_image: '/images/fintech.png'
+featured_image: '/images/mobile/vestd-small.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/mobile/vestd-small.png)
 
 If running a company wasn’t hard enough, land yourself a job as an independent contractor/owner of a small company and you will quickly realize that not only are you the CEO of a company, but you’re frequently everything else too. Bookkeeping, project management and expense tracking can quickly become a full time job you didn’t know you signed up for. 
 
