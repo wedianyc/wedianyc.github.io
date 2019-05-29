@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'We do'
-      url: '/services'
+      url: '/process'
     - title: 'Case studies'
       url: '/work'
     - title: 'Blog'
