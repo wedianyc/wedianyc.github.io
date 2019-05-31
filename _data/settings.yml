@@ -12,8 +12,6 @@ menu_settings:
       url: '/process'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   logo_image: 

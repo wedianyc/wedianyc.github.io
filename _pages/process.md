@@ -15,7 +15,7 @@ hide_header: true
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title">Web Development & Design</h1>
-	      <div class="body-content">
+	      <div class="body-content wow fadeInRight">
 	      	<p>
 	    		We start from a blank canvas - enabling us to do anything you can possibly
 					think of. In turn, user experience is optimized through the utilization of
@@ -35,7 +35,7 @@ hide_header: true
 	  <div class="row">
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title title-right">Mobile App Development</h1>
-	      <div class="body-content ml-auto">
+	      <div class="body-content ml-auto wow fadeInLeft">
 	      	<p>
 	    		Get a step ahead of your competition knowing that an effective mobile
 	    		strategy involves more than just a mobile-friendly website. We support
@@ -60,7 +60,7 @@ hide_header: true
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title">Social Media Marketing</h1>
-	      <div class="body-content">
+	      <div class="body-content wow fadeInRight">
 	      	<p>
 	    		Social media is meant to be SOCIAL. Through our proven process, we can deliver statistically driven, quantifiable results across all social channels.
 				</p>
@@ -77,7 +77,7 @@ hide_header: true
 	  <div class="row">
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title title-right">Design & Branding</h1>
-	      <div class="body-content ml-auto">
+	      <div class="body-content ml-auto wow fadeInLeft">
 	      	<p>
 	    		As a business, your brand is everything. Every company, regardless of size or stature, shares a desire to be the customer’s ‘first choice’. Creating a strong brand is fundamental to making this goal a reality.
 				</p>
@@ -98,8 +98,8 @@ hide_header: true
 	      <img src="/images/icons/device.png" class="square-img bump-down-30"/>
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
-	      <h1 class="process-title">Creative</h1>
-	      <div class="body-content">
+	      <h1 class="process-title" style="padding-left: 8px;">Creative</h1>
+	      <div class="body-content wow fadeInRight">
 	      	<p>
 	    		At a moments notice, we can put together a team to provide
 	    		high-quality video and/or photo coverage for a variety of
@@ -117,7 +117,7 @@ hide_header: true
 	  <div class="row">
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title title-right">SEO/SEM</h1>
-	      <div class="body-content ml-auto">
+	      <div class="body-content ml-auto wow fadeInLeft">
 	      	<p>
 	    		Did you know Google uses over 200 factors to determine a website’s
 	    		ranking in search? And they switch priority of those factors every 4-6
@@ -136,44 +136,3 @@ hide_header: true
 
 
 </div>
-
-<!-- <div class="container">
-	<div class="row">
-		<div class="col-xs-4">
-			<img src="/images/icons/web-maintenance.png" class="process-img" />
-		</div>
-		<div class="col-xs-8">
-			<h1 class="process-title">Web Development</h1>
-			<div class="body-content">
-				We start from a blank canvas - enabling us to do anything you can possibly
-				think of. In turn, user experience is optimized through the utilization of
-				latest technology, an understanding of your company’s vision, and a website
-				that highlights it all.
-			</div>
-		</div>
-	</div>
-</div> -->
-<!-- <div class="content-wrap">
-	<div class="process">
-		<img src="/images/icons/web-maintenance.png" class="icon-left" />
-		<div class="process-title">Web Development</div>
-			<div class="process-body">
-				We start from a blank canvas - enabling us to do anything you can possibly
-				think of. In turn, user experience is optimized through the utilization of
-				latest technology, an understanding of your company’s vision, and a website
-				that highlights it all.
-			</div>
-		<a href="/services/web-dev" class="process-link">Our Process ></a>
-	</div>
-</div>
- -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<ul class="case-studies-list">
-	<li><a href="/service/app-dev">Mobile App Development</a></li>
-	<li><a href="/service/web-dev">Web Development</a></li>
-	<li><a href="/service/social">Social Media Marketing</a></li>
-	<li><a href="/service/design">Design and Brand Identity</a></li>
-	<li><a href="/service/creative">Creative</a></li>
-	<li><a href="/service/seo">SEO/SEM</a></li>
-</ul>

@@ -65,7 +65,6 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
-	
 	@include mq(tabletl) {
 		position: absolute;
 		top: 50%;
@@ -267,5 +266,34 @@
 		@include mq(tabletl) {
 			border-radius: 21px;
 		}
+	}
+}
+
+.btn-primary {
+	background-color: #1CAAEB !important;
+	border-color: #1CAAEB !important;
+	border-radius: 0px !important;
+	font-weight: 600 !important;
+}
+
+.btn-work-together {
+	display: none;
+
+	@include mq(tabletl) {
+		display: inline-block;
+	}
+	.btn-primary {
+display: none;
+
+	@include mq(tabletl) {
+		display: inline-block;
+	}	}
+}
+
+.contact-link {
+	display: inline-block !important;
+
+	@include mq(tabletl) {
+		display: none !important;
 	}
 }
