@@ -2,6 +2,16 @@
 layout: default
 ---
 
+{% if page.hide_header %}
+
+<section class="single-page">
+
+	{{ page.content }}
+
+</section>
+
+{% else %}
+
 <section class="intro">
 
 	<div class="wrap">
@@ -12,9 +22,10 @@ layout: default
 	</div>
 
 </section>
-
 <section class="single">
 
 	{{ page.content }}
 
 </section>
+
+{% endif %}

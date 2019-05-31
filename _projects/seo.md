@@ -7,7 +7,7 @@ featured_image: '/images/SEO/SEO-1.png'
 
 ---
 
-![](/images/SEO/SEO-Header.png)
+![](/images/SEO/SEO-1.png)
 
 After having a personal experience of a collarbone injury, founder Kate Kirilcuk came up with an idea that would combine her many years as a fashion designer with the experience of being a patient frustrated with the banal industry of medical wear.  Thus the concept of Not Blue Designs was born: fashionable medical accessories for those on the mend who still want to look and feel great.
 

@@ -3,6 +3,8 @@ title: Design and Brand Identity
 subtitle: Create something people can't stop thinking about.
 ---
 
+![](/images/design/process.gif)
+
 ## Phase 1: Understand the “Why?”
 
 An essential part to developing any sort of branding or design asset (i.e logo,

@@ -4,6 +4,8 @@ subtitle: Activate your fans, don't just collect them.
 
 ---
 
+![](/images/social/heart-likes.jpg)
+
 ## Phase 1: Research, Discovery & Strategy 
 
 A Research, Discovery and Strategy phase is a vital part of our process as it

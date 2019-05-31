@@ -3,6 +3,8 @@ title: Creative
 subtitle: Creativity is intelligence having fun.
 ---
 
+![](/images/creative/process.jpg)
+
 ## Step 1: Moodboard
 
 Did someone say moodboard?! It’s time to call the colleague that’s still

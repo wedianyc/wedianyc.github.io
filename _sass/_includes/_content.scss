@@ -251,3 +251,66 @@
 	width: 100%;
 	height: 100%;
 }
+
+// Single Page (Process)
+
+.services-title {
+	font-size: 72px;
+	text-align: center;
+}
+
+.single-page {
+	margin-top: 0;
+}
+
+
+.body-content {
+	margin-left: 20px;
+	font-size: 18;
+}
+
+
+
+
+.process-title {
+  font-size: calc(24px + 3vw);
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+#A {
+	text-align: center;
+}
+
+#B {
+	padding-left: 0px;
+}
+
+#square-img {
+	margin-top: 60px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+
+ 	@include mq(tabletl) {
+		max-width: 200px;
+	}
+	@include mq(laptop) {
+		max-width: 100%;
+	}
+
+}
+
+.body-content {
+  margin-left: 20px;
+  font-size: calc(12px + .8vw);
+  max-width: 80%;
+}
+
+.process-wrap {
+	max-width: 80%;
+	margin: auto;
+	margin-top: 140px;
+}
+
+

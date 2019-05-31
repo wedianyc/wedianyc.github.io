@@ -7,7 +7,7 @@ featured_image: '/images/3ee/3ee-laptop.jpg'
 
 ---
 
-<video class="full-video">
+<video class="full-video" muted autoplay loop>
 	<source src="/videos/wino.mp4" type="video/mp4">
 </video>
 

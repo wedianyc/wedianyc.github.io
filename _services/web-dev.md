@@ -4,6 +4,8 @@ subtitle: Let's build something your users will love.
 
 ---
 
+![](/images/web/process.jpg)
+
 ## Phase 1: Understanding the Site 
 
 First things first, tell us EVERYTHING. For WeDIA to build you the most

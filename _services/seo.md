@@ -3,6 +3,8 @@ title: SEO/SEM
 subtitle: What gets measured gets improved.
 ---
 
+![](/images/SEO/process.png)
+
 ## Phase 1: Research, Discovery & Strategy 
 
 Similar to our social media marketing process, a Research, Discovery and
