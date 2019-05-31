@@ -262,20 +262,45 @@
 .single-page {
 	margin-top: 0;
 }
+.process-wrap {
+	max-width: 80%;
+	margin: auto;
+	margin-top: 120px;
 
-
-.body-content {
-	margin-left: 20px;
-	font-size: 18;
+	@include mq(phonel) {
+		margin-top: 60px;
+	}
+	@include mq(tabletp) {
+		margin-top: 120px;
+	}
 }
 
-
-
-
 .process-title {
-  font-size: calc(24px + 3vw);
-  margin-left: 0px !important;
-  margin-right: 0px !important;
+	font-size: calc(24px + 3vw);
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-top: 0px !important;
+
+	@include mq(phonel) {
+		margin-top: 20px !important;
+		text-align: center;
+
+	}
+	@include mq(tabletp) {
+		margin-top: 0px !important;
+		font-size: calc(20px + 2vw);
+		text-align: left;
+	}
+
+	@include mq(laptop) {
+		font-size: calc(24px + 2vw);
+	}
+}
+
+.title-right {
+	@include mq(tabletp) {
+		text-align: right;
+	}
 }
 
 #A {
@@ -286,31 +311,85 @@
 	padding-left: 0px;
 }
 
-#square-img {
-	margin-top: 60px;
+.square-img {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+	max-width: 100%;
 
- 	@include mq(tabletl) {
-		max-width: 200px;
+ 	@include mq(phonel) {
+		max-width: 250px;
+	}
+	@include mq(tabletp) {
+		max-width: 100%;
 	}
 	@include mq(laptop) {
 		max-width: 100%;
 	}
-
 }
+
+.bump-down-60 {
+	margin-top: 0;
+
+	@include mq(tabletp) {
+		margin-top: 60px;
+		max-width: 100%;
+	}
+}
+
+.bump-down-30 {
+	margin-top: 0;
+
+	@include mq(tabletp) {
+		margin-top: 30px;
+		max-width: 100%;
+	}
+}
+
+
+// .body-content {
+// 	margin-left: 20px;
+// 	font-size: 18;
+	
+// 	@include mq(phonel) {
+// 		margin-left: 0px !important;
+// 	}
+// 	@include mq(tabletp) {
+// 		margin-left: 20px !important;
+// 	}
+// }
 
 .body-content {
-  margin-left: 20px;
-  font-size: calc(12px + .8vw);
-  max-width: 80%;
+	margin-left: 20px;
+	font-size: calc(12px + .8vw);
+	max-width: 100%;
+	
+	@include mq(tabletp) {
+		max-width: 70%;
+	}
+	@include mq(laptop) {
+		max-width: 70%;
+	}
+	p {
+		margin-top: 16px;
+	}
 }
 
-.process-wrap {
-	max-width: 80%;
-	margin: auto;
-	margin-top: 140px;
+.container {
+	margin-bottom: 80px;
 }
 
+.process-link-container {
+	text-align: right;
+	float: right;
+}
 
+.process-link-container-left {
+	text-align: right;
+	float: right;
+
+	@include mq(tabletp) {
+		text-align: left;
+		float: left;
+	}
+}
