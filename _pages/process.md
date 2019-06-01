@@ -10,8 +10,10 @@ hide_header: true
 	<div class="container">
 	  <div class="row">
 	    <div class="col-md-3 col-xs-12" id="A">
-	      <img src="/images/icons/web-maintenance.png" class="square-img
-	      bump-down-60"/>
+	    	<a href="/service/web-dev">
+		      <img src="/images/icons/web-maintenance.png" class="square-img
+		      bump-down-60"/>
+		  	</a>
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title">Web Development & Design</h1>
@@ -48,7 +50,9 @@ hide_header: true
 	      </div>
 	    </div>
 	    <div class="col-md-3 col-xs-12 order-first order-md-last" id="A">
-	      <img src="/images/icons/smartphone.png" class="square-img"/>
+	    	<a href="/service/app-dev">
+		      <img src="/images/icons/smartphone.png" class="square-img"/>
+		  </a>
 	    </div>
 	  </div>
 	</div>
@@ -56,7 +60,9 @@ hide_header: true
 <div class="container">
 	  <div class="row">
 	    <div class="col-md-3 col-xs-12" id="A">
-	      <img src="/images/icons/teamwork.png" class="square-img bump-down-30"/>
+	    	<a href="/service/social">
+		      <img src="/images/icons/teamwork.png" class="square-img bump-down-30"/>
+		  </a>
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title">Social Media Marketing</h1>
@@ -87,7 +93,9 @@ hide_header: true
 	      </div>
 	    </div>
 	    <div class="col-md-3 col-xs-12 order-first order-md-last" id="A">
-	      <img src="/images/icons/create.png" class="square-img"/>
+	    	<a href="/service/design">
+		      <img src="/images/icons/create.png" class="square-img"/>
+			</a>
 	    </div>
 	  </div>
 	</div>
@@ -95,7 +103,9 @@ hide_header: true
 <div class="container">
 	  <div class="row">
 	    <div class="col-md-3 col-xs-12" id="A">
+	    <a href="/service/creative">
 	      <img src="/images/icons/device.png" class="square-img bump-down-30"/>
+	    </a>
 	    </div>
 	    <div class="col-md-9 col-xs-12" id="B">
 	      <h1 class="process-title" style="padding-left: 8px;">Creative</h1>
@@ -129,7 +139,9 @@ hide_header: true
 	      </div>
 	    </div>
 	    <div class="col-md-3 col-xs-12 order-first order-md-last" id="A">
-	      <img src="/images/icons/search.png" class="square-img"/>
+	    	<a href="/service/seo">
+		      <img src="/images/icons/search.png" class="square-img"/>
+		    </a>
 	    </div>
 	  </div>
 	</div>
