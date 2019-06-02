@@ -5,6 +5,9 @@ hide_header: true
 ---
 <h1 class="services-title">We do</h1>
 
+<video class="full-video" muted autoplay loop style="margin-top: 30px;">
+	<source src="/videos/wedia-website-banner.mp4">
+</video>
 
 <div class="content-wrap process-wrap">
 	<div class="container">
