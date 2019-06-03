@@ -7,7 +7,7 @@ featured_image: '/images/3ee/3ee-laptop.jpg'
 css_id: web
 ---
 
-<video class="full-video" muted autoplay loop>
+<video class="full-video" muted autoplay loop playsinline>
 	<source src="/videos/wino.mp4" type="video/mp4">
 </video>
 

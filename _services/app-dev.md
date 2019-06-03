@@ -3,7 +3,8 @@ title: Mobile App Development
 subtitle: Execution isn’t everything, it’s the only thing.
 ---
 
-<video class="full-video" muted autoplay loop style="margin-top: 30px;
+<video class="full-video" muted autoplay loop playsinline style="margin-top:
+30px;
 margin-bottom:
 30px;">
 	<source src="/videos/app-process.mov">
