@@ -51,7 +51,13 @@
 	background: rgba($overlay-background-color, $overlay-opacity);
 
 	opacity: 0;
-	visibility: hidden;
+	visibility: visible;
+
+	@include mq(tabletl) {
+		opacity: 0;
+		visibility: hidden;
+	}
+
 	@include transition(all 0.2s ease-in-out);
 }
 
@@ -74,6 +80,15 @@
 	}
 }
 
+.portfolio-item__title-mobile {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	@include mq(tabletl) {
+		visibility: hidden
+	}
+}
+
 .portfolio-item__subtitle {
 	margin-top: 5px;
 	color: rgba($overlay-text-color, 0.7);
@@ -89,3 +104,80 @@
 		font-size: $grid-item-subtitle-large;
 	}
 }
+
+// Animations
+@-webkit-keyframes INFO-FADE{
+  0%   { opacity: 0; }
+  50%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+@-moz-keyframes INFO-FADE {
+  0%   { opacity: 0; }
+  50%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+@-o-keyframes  INFO-FADE {
+  0%   { opacity: 0; }
+  50%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes INFO-FADE {
+  0%   { opacity: 0; }
+  50%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+#app {
+	animation: INFO-FADE 5s infinite;
+	@include mq(tabletl) {
+		animation: none;
+	}
+}
+
+#web {
+	animation: INFO-FADE 5s infinite;
+	animation-delay: 2s;	
+	@include mq(tabletl) {
+		animation: none;
+	}
+
+}
+
+#design {
+	animation: INFO-FADE 5s infinite;
+	animation-delay: 3s;	
+	@include mq(tabletl) {
+		animation: none;
+	}
+}
+
+#creative {
+	animation: INFO-FADE 5s infinite;
+	animation-delay: 1s;
+	@include mq(tabletl) {
+		animation: none;
+	}
+
+}
+
+#seo {
+	animation: INFO-FADE 5s infinite;
+	animation-delay: 5s;
+	@include mq(tabletl) {
+		animation: none;
+	}
+
+}
+
+#social {
+	animation: INFO-FADE 5s infinite;
+	animation-delay: 4s;
+	@include mq(tabletl) {
+		animation: none;
+	}
+
+}
+
+
+
