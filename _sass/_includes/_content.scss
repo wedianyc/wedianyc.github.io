@@ -382,11 +382,18 @@
 .process-link-container {
 	text-align: right;
 	float: right;
+
+	a {
+		color: #1CAAEB;
+	}
 }
 
 .process-link-container-left {
 	text-align: right;
 	float: right;
+	a {
+		color: #1CAAEB;
+	}
 
 	@include mq(tabletp) {
 		text-align: left;
