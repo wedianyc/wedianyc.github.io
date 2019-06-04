@@ -19,31 +19,34 @@ destruction and true horror that comes within the world of heroin and opioids.
 
 ## Challenge
 
-How to bring the issue of drug abuse to light, in a way that is culturally
-consumable.
+The main challenge with DOPE was to figure out how to bring the issue of drug
+abuse to light, in a way that is culturally consumable. Many drug awareness
+campaigns do not resonate with the audience and appear in stereotypical mediums
+such as posters and video commercials. We asked ourselves, 'how might we make a
+more memorable drug awareness campaign? What medium(s) have we not yet seen
+this take place in?'
 
 ## Design
 
-What medium? 
-
-What considerations were made, what was ruled out, what drew you to chose a
-clothing and lookbook to convey this concept?
+Many considerations were made and traditional approaches were taken at first to
+build the concept. Many of these initial concepts were ruled out relatively
+quickly, and we were able to hone in on fashion as the vehicle to communicate
+our message.
 
 > “Fashion often glamorizes drug abuse, with looks like heroin chic.”
 
-Clothing is one of the most consumer-driven products. Very trendy. Something we
-all have to consume every day. Fashion often glamorizes drug abuse, with looks
-like 'heroin chic'.People pay attention to what's cool, what's in. Clothing felt
-like the right vehicle to take a stand and present the issue because clothing is
-such a part of the collective consciousness of consumerism. Fashion ofte
- glamorizes drug abuse, with looks like 'heroin chic'. Brands like SUPREME and
- Adidas hold a certain social status and unite people. People pay attention to
- clothes, people pay attention to fashion. They're not so much going to remember
- a poster, but clothing and fashion occupies a different mind space and is more
- memorable.
+Clothing is one of the most consumer-driven products as it is very trendy.
+It's something we all have to consume every day. Fashion often glamorizes drug
+abuse, with looks like 'heroin chic'. People pay attention to what's cool,what's
+in. Clothing felt like the right vehicle to take a stand and present the issue
+because clothing is such a part of the collective consciousness of consumerism.
+Brands like SUPREME and Adidas hold a certain social status and unite people.
+People pay attention to clothes, people pay attention to fashion. They're not
+so much going to remember  a poster, but clothing and fashion occupies a
+different mind space and is more memorable.
 
-
-While using the vehicles of beauty and consumerism to speak to the culture of today.
+We decided we would be using the vehicles of beauty and consumerism to speak to
+the culture of today.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/DOPE-3.jpg">
@@ -51,11 +54,3 @@ While using the vehicles of beauty and consumerism to speak to the culture of to
 	<img src="/images/DOPE-5.jpg">
 	<img src="/images/DOPE-2.jpg">
 </div>
-
-## Outcome
-
-- What did you make?
-- How it speaks to the audience?
-- Photos!
-
-
