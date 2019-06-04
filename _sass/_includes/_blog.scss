@@ -23,16 +23,16 @@
 	position: relative;
 	display: block;
 
-	@include mq(tabletl) {
+	// @include mq(tabletl) {
 
-		&:hover {
+	// 	&:hover {
 
-			.blog-post__content {
-				opacity: 1;
-				visibility: visible;
-			}
-		}
-	}
+	// 		.blog-post__content {
+	// 			opacity: 1;
+	// 			visibility: visible;
+	// 		}
+	// 	}
+	// }
 }
 
 .blog-post__image {
@@ -101,4 +101,24 @@
 
 .pagination__next {
 	float: left;
+}
+
+.blog-post-metadata {
+	margin-top: 8px;
+	margin-bottom: 20px;
+	font-size: 24px;
+	font-weight: 600;
+
+	a:hover {
+		text-decoration: none;
+	}
+
+	p {
+		margin-bottom: 4px;
+		color: grey;
+	}
+}
+
+.author-date {
+	font-size: 14px;
 }

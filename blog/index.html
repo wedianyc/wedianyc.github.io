@@ -38,7 +38,13 @@ featured_image: /images/social.jpg
 				</div>
 
 			</a>
-
+			<div class="blog-post-metadata">
+				<a href="{{ post.url }}">
+					<h3>{{ post.title }}</h3>
+					<p>{{ post.tagline }}</p>
+					<p class="author-date">by WeDIA Editors · {{ post.date | date: "%B %-d" }}</p>
+				</a>
+			</div>
 		</article>
 
 		{% endfor %}

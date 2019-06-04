@@ -1,6 +1,7 @@
 ---
 title: 'Establishing Your Aesthetic'
 featured_image: '/images/design/aesthic.png'
+tagline: Discover what's important while building a brand.
 ---
 
 ![](/images/design/aesthic.png)

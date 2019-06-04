@@ -18,7 +18,7 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 
 		<div class="portfolio-item wow fadeInUp" data-wow-duration="2s">
 			<a class="portfolio-item__link" href="{{ project.url }}">
-				<div class="portfolio-item__image">
+				<div class="portfolio-item__image img-hover-zoom--quick-zoom img">
 					{% if project.featured_image != ''%}
 						<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
 					{% else if project.featured_video %}
@@ -33,6 +33,13 @@ description: WeDIA is a full-service agency, busy designing and building remarka
 					</div>
 				</div>
 			</a>
+			<div class="project-title">
+				<a href="{{ project.url }}">
+					<h3>{{ project.title }}</h3>
+					<p>{{ project.hover_title }}</p>
+				</a>
+			</div>
+
 		</div>
 
 		{% endfor %}

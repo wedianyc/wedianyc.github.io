@@ -1,6 +1,7 @@
 ---
 title: 'Native vs Web vs Hybrid Apps'
 featured_image: '/images/apps/react-native-web-ios.png'
+tagline: Understanding the complex landscape of app development platforms.
 ---
 
 ![](/images/apps/react-native-web-ios.png)

@@ -1,6 +1,7 @@
 ---
 title: 'SquareSpace vs. WordPress'
 featured_image: '/images/web/ss-v-wp.png'
+tagline: The key differences you need to know.
 ---
 
 ![](/images/web/ss-v-wp.png)

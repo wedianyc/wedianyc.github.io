@@ -191,6 +191,7 @@
 }
 
 .menu__list__item {
+	margin-bottom: 6px;
 
 	@include mq(tabletl) {
 		display: inline-block;
@@ -206,7 +207,7 @@
 	font-size: $menu-small;
 	font-weight: $menu-weight;
 	color: $overlay-text-color;
-	padding: 10px 0;
+	padding: 0px;
 
 	&:hover {
 		color: $overlay-accent-color;

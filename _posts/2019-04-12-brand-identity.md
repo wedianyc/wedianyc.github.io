@@ -1,6 +1,7 @@
 ---
 title: 'Creating Your Brand Identity'
 featured_image: '/images/design/brand-feature.jpg'
+tagline: A brand that sucks isn't much of a brand.
 ---
 
 ![](/images/design/brand.jpg)
