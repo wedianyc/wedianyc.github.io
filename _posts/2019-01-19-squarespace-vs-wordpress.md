@@ -1,5 +1,5 @@
 ---
-title: 'SquareSpace vs. WordPress'
+title: 'Squarespace vs. WordPress'
 featured_image: '/images/web/ss-v-wp.png'
 tagline: The key differences you need to know.
 ---
@@ -7,7 +7,7 @@ tagline: The key differences you need to know.
 ![](/images/web/ss-v-wp.png)
 
 It’s 2019 and you want to create a top of the line website. Odds are, you’ve
-heard of SquareSpace and Wordpress by now and if you’re someone new to the web
+heard of Squarespace and WordPress by now and if you’re someone new to the web
 development world, you might be asking yourself what’s the difference? And even
 if you understand the basic differences, how do you know which one is right for
 you? Stick with us and let’s answer these questions.
@@ -20,7 +20,7 @@ updates or finding the perfect hosting provider. You don’t have to use custom
 code, but the option is there if you’d like to add some advanced functionality.
 
 WordPress also allows you to build your own website, but it’s not a website
-builder - meaning you need to know how to code. Unlike SquareSpace, you have the
+builder - meaning you need to know how to code. Unlike Squarespace, you have the
 option to customize everything and have more advanced features. Because WP is
 open source, if you can dream it, we can build it. 
 

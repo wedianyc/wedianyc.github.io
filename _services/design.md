@@ -31,15 +31,17 @@ understanding of how you want the company to be represented.
 We now have what we need to begin our iterative design process. An example
 schedule may be:
 
-```
-Round 1
-Develop 3-5 initial design concepts
-Client review/feedback
-Round 2
-Make edits and revisions to 1-2 Client approved designs
-Client review/feedback
-Round 3
-Make edits and revisions to 1 Client approved design
-Finalize design
-Deliver final design and all deliverables
-```
+**Round 1**
+* Develop 3-5 initial design concepts
+* Client review/feedback
+
+**Round 2**
+
+* Make edits and revisions to 1-2 Client approved designs
+* Client review/feedback
+
+**Round 3**
+
+* Make edits and revisions to 1 Client approved design
+* Finalize design
+* Deliver final design and all deliverables

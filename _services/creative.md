@@ -32,15 +32,16 @@ photographers/videographers on location and prepped with your moodboard in mind.
 Similar to our design process, our content editing is built in a format to allow
 for iterations. An example schedule may be:
 
-```
-Round 1
-Initial edit of all photos/videos
-Client review/feedback - finalizing which photos/videos they will move forward with
-Round 2
-Make edits and revisions to selected photos/video
-Client review/feedback
-Round 3
-Make edits and revisions to final Client approved assets
-Final tweaks
-Deliver assets
-```
+**Round 1**
+* Initial edit of all photos/videos
+* Client review/feedback - finalizing which photos/videos they will move forward
+with
+
+**Round 2**
+* Make edits and revisions to selected photo/video
+* Client review/feedback
+
+**Round 3**
+* Make edits and revisions to final client approved assets
+* Final tweaks
+* Deliver assets
