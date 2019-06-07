@@ -3,11 +3,11 @@ title: Andaz
 subtitle: Bringing community to a hotel.
 rank: 6
 hover_title: Social Media Marketing
-featured_image: '/images/andaz/wall-street.jpg'
+featured_image: '/images/andaz/rooftop.jpg'
 css_id: social
 ---
 
-![](/images/andaz/newyorkcity.jpg)
+![](/images/andaz/rooftop.jpg)
 
 This sleek high-rise hotel in the financial district is 2 blocks from the New
 York Stock Exchange, 7 blocks from South Street Seaport and 8 blocks from the
