@@ -1,10 +1,10 @@
 ---
 title: 'Squarespace vs. WordPress'
-featured_image: '/images/web/ss-v-wp.png'
+featured_image: '/images/blog/web_design_1.png'
 tagline: The key differences you need to know.
 ---
 
-![](/images/web/ss-v-wp.png)
+![](/images/blog/web_design_1.png)
 
 It’s 2019 and you want to create a top of the line website. Odds are, you’ve
 heard of Squarespace and WordPress by now and if you’re someone new to the web

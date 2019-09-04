@@ -1,12 +1,13 @@
 ---
-title: 'Establishing Your Aesthetic'
-featured_image: '/images/design/aesthic.png'
+title: 'Establishing Your Social Aesthetic'
+featured_image: '/images/blog/design_1.png'
 tagline: Discover what's important while building a brand.
 ---
 
-![](/images/design/aesthic.png)
+![](/images/blog/design_1.png)
 
-A curated aesthetic is one of the best ways to show off your brand’s unique
+A curated social media aesthetic is one of the best ways to show off your
+brand’s unique
 style and tone. If you want to attract new eyes, having a clean, consistent,
 cohesive (that’s a lot of C’s!) aesthetic is the key to turning customers into
 loyal fans.

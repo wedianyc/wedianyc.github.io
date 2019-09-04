@@ -1,10 +1,10 @@
 ---
 title: 'Creating Your Brand Identity'
-featured_image: '/images/design/brand-feature.jpg'
+featured_image: '/images/blog/design_2.png'
 tagline: A brand that sucks isn't much of a brand.
 ---
 
-![](/images/design/brand.jpg)
+![](/images/blog/design_2.png)
 
 Your company’s brand identity is not something that can quickly be thrown
 together. An impactful look and feel across brochures, business cards, websites,

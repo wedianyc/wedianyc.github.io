@@ -1,10 +1,10 @@
 ---
 title: 'Native vs Web vs Hybrid Apps'
-featured_image: '/images/apps/react-native-web-ios.png'
-tagline: Understanding the complex landscape of app development platforms.
+featured_image: '/images/blog/dev_1.png'
+tagline: Understanding the landscape of app development platforms.
 ---
 
-![](/images/apps/react-native-web-ios.png)
+![](/images/blog/dev_1.png)
 
 When it comes to app development, there are three main app types you can
 explore:
